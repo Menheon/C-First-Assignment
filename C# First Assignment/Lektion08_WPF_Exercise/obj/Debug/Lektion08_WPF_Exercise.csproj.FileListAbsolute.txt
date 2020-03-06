@@ -1,0 +1,14 @@
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\bin\Debug\Lektion08_WPF_Exercise.exe.config
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\bin\Debug\Lektion08_WPF_Exercise.exe
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\bin\Debug\Lektion08_WPF_Exercise.pdb
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.csprojAssemblyReference.cache
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\MainWindow.g.cs
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\App.g.cs
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise_MarkupCompile.cache
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise_MarkupCompile.lref
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\MainWindow.baml
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.g.resources
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.Properties.Resources.resources
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.csproj.GenerateResource.cache
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.exe
+C:\Users\kdbme\source\repos\Lektion08_WPF_Exercise\Lektion08_WPF_Exercise\obj\Debug\Lektion08_WPF_Exercise.pdb
